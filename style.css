@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+.program {
+  display: grid;
+  justify-content: center;
+}
+
+#sketch-holder {
+  position: center;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
